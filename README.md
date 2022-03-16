@@ -1,4 +1,4 @@
-# MARUBOT
+# Marubot
 Two-wheel differential drive ROS robot with LiDAR and RGBD camera setup.
 Microcontroller: Arduino UNO.
 
@@ -35,4 +35,3 @@ Vl = (2V - wL) / 2R
 #
 ### References:
 - Apply Coursera Control of Mobile Robots with ROS and ROSbots
-# Marubot

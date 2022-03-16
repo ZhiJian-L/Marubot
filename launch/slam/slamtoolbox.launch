@@ -1,0 +1,8 @@
+<launch>
+
+  <!-- Online Synchronous Slam Toolbox-->
+  <node pkg="slam_toolbox" type="sync_slam_toolbox_node" name="slam_toolbox" output="screen">
+    <rosparam command="load" file="$(find marubot)/config/slam/slamtoolbox.yaml" />
+  </node>
+
+</launch>
