@@ -14,7 +14,3 @@ roslaunch marubot slam.launch slam:=hector
 roslaunch marubot slam.launch slam:=cartographer
 roslaunch marubot slam.launch slam:=slamtoolbox
 ~~~
-
-#
-### References:
-- Apply Coursera Control of Mobile Robots with ROS and ROSbots
